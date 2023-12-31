@@ -15,7 +15,7 @@
 
 - 📝 My research papers available at [Google Scholar](https://scholar.google.com/citations?user=_H0VkbYAAAAJ&hl=en)
 - 💬 Ask me about **Research, Self Adaptive Systems, AI4SE, SE4AI, Software Engineering of Machine Learning Systems**
-- 📫 How to reach me: **shubhamkstar@gmail.com**
+- 📫 How to reach me: **shubhamkster@gmail.com**
 - ⚡ Fun fact: **I think I am Funny!**
 
 </td>
