@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/Shubhamkstar/Shubhamkstar/main/N.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Shantanu Kulkarni</h1>
 <h3 align="center">Software Engineering Researcher | MS CSE - IIITH |</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkstar&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkstar" /> </p>
