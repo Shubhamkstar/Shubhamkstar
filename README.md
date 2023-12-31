@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Shubhamkstar/Shubhamkstar/main/N.jpg)]
+![MasterHead](https://raw.githubusercontent.com/Shubhamkstar/Shubhamkstar/main/N.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Shantanu Kulkarni</h1>
 <h3 align="center">Software Engineering Researcher | MS CSE - IIITH |</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk">
