@@ -1,31 +1,30 @@
 ![MasterHead](https://raw.githubusercontent.com/Shubhamkstar/Shubhamkstar/main/N.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Shantanu Kulkarni</h1>
 <h3 align="center">Software Engineering Researcher | MS CSE - IIITH |</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Shubhamkstar/Shubhamkstar/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkstar&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkstar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on research in self adaptive systems particularly focus on Machine Learning Enabled Software Systems. [A](A)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- 🌱 I’m currently learning **MLOps, Pytorch and Tensorflow**
+- 🔭 I’m currently working on research in self adaptive systems with a focus on Machine Learning Enabled Software Systems.
+- 🌱 I’m currently learning **MLOps, Pytorch, and Tensorflow**
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Shubhamkstar)
 
-- 👯 I’m looking to collaborate on [A](A)
+</td>
+<td valign="top" width="50%">
 
-- 🤝 I’m looking for help with [A](A)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Shubhamkstar](https://github.com/Shubhamkstar)
-
-- 📝 My research papers availble at Google Scholar. [https://scholar.google.com/citations?user=_H0VkbYAAAAJ&hl=en](https://scholar.google.com/citations?user=_H0VkbYAAAAJ&hl=en)
-
+- 📝 My research papers available at [Google Scholar](https://scholar.google.com/citations?user=_H0VkbYAAAAJ&hl=en)
 - 💬 Ask me about **Research, Self Adaptive Systems, AI4SE, SE4AI, Software Engineering of Machine Learning Systems**
+- 📫 How to reach me: **shubhamkstar@gmail.com**
+- ⚡ Fun fact: **I think I am Funny!**
 
-- 📫 How to reach me **shubhamkstar@gmail.com**
-
-- 📄 Know about my experiences [A](A)
-
-- ⚡ Fun fact **I think I am Funny!**
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
