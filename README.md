@@ -29,7 +29,6 @@
         <h3>Research</h3>
         <p><b>Software Engineering Research Center, IIITH | Researcher</b><br>
         October 2022 – Ongoing | Hyderabad<br>
-        <a href="LINK_TO_DETAILED_RESEARCH_REPO">More about my research</a></p>
     </td>
     <td valign="top" width="50%">
         <h3>Education</h3>
