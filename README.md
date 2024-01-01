@@ -38,7 +38,6 @@
         <b>Government College of Engineering, Karad</b><br>
         B.Tech in E&TC<br>
         CGPA - 8.54/10 | July 2016 - May 2020<br>
-        <a href="LINK_TO_DETAILED_EDUCATION_REPO">More about my education</a></p>
     </td>
 </tr>
 </table>
