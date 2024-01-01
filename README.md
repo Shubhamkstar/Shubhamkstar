@@ -44,23 +44,6 @@
 </tr>
 </table>
 
-<!-- Work Experience -->
-<h2 align="left">👔 Work Experience</h2>
-<table>
-<tr>
-    <td valign="top" width="50%">
-        <p><b>Kantar</b><br>
-        [Your Role & Duration]<br>
-        <a href="LINK_TO_KANTAR_REPO">More about my work at Kantar</a></p>
-    </td>
-    <td valign="top" width="50%">
-        <p><b>Johnsons Control</b><br>
-        [Your Role & Duration]<br>
-        <a href="LINK_TO_JOHNSONS_CONTROL_REPO">More about my work at Johnsons Control</a></p>
-    </td>
-</tr>
-</table>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkstar&show_icons=true&locale=en&layout=compact" alt="shubhamkstar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamkstar&show_icons=true&locale=en" alt="shubhamkstar" /></p>
